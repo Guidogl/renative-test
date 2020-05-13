@@ -30,7 +30,8 @@
         "react-native-screens": "2.2.0",
         "react-native-tab-view": "2.13.0",
         "react-native-google-cast": "github:hosek/react-native-google-cast#e8c82f766c6efc769b67692edcd1e697b9db9f6e",
-        "@noriginmedia/react-spatial-navigation": "2.12.1"
+        "@noriginmedia/react-spatial-navigation": "2.12.1",
+        "raf": "3.4.1"
     },
     "devDependencies": {
         "rnv": "0.29.0",
